@@ -1,5 +1,7 @@
 <?php
 
+// Isset digunakan apakah sebuah variabel ada atau tidak
+
 $buah = "Apel";
 $kendaraan = "Mobil";
 
